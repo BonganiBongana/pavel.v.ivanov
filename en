@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- INSERT YOUR NAME -->
+
+    <title>Pavel V. Ivanov</title>
+
+
+    <!-- INSERT YOUR RESEARCH FIELD -->
+
+    <meta
+        name="description"
+        content="Pavel V. Ivanov — Researcher, PhD in Politics."
+    >
+
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+<div class="page">
+
+
+    <!-- =====================================================
+         HEADER
+         ===================================================== -->
+
+    <header class="header">
+
+
+        <div class="photo-container">
+
+            <img
+                src="photo.jpg"
+                alt="Pavel V. Ivanov"
+                class="portrait"
+                onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';"
+            >
+
+            <div class="photo-placeholder">
+                Photo
+            </div>
+
+        </div>
+
+
+        <div class="header-info">
+
+
+            <!-- INSERT YOUR NAME -->
+
+            <h1>
+                Pavel V. Ivanov
+            </h1>
+
+
+            <!-- INSERT YOUR RESEARCH FIELD -->
+
+            <p class="subtitle">
+                Researcher in the field of Political Science
+            </p>
+
+
+            <!-- =================================================
+                 ACADEMIC PROFILES AND CONTACT
+                 ================================================= -->
+
+            <div class="profile-links">
+
+
+                <!-- ORCID -->
+
+                <!-- INSERT YOUR ORCID PROFILE URL -->
+
+                <a
+                    href="https://orcid.org/0000-0003-1788-8811"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    ORCID
+                </a>
+
+
+                <!-- eLIBRARY -->
+
+                <!-- INSERT YOUR ELIBRARY PROFILE URL -->
+
+                <a
+                    href="https://scholar.google.com/citations?user=h2rFX0IAAAAJ&hl=en"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Google Scholar
+                </a>
+
+
+                <!-- SCOPUS -->
+
+                <!-- INSERT YOUR SCOPUS PROFILE URL -->
+
+                <a
+                    href="https://www.scopus.com/authid/detail.uri?authorId=57224173885"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Scopus
+                </a>
+
+
+                <!-- WEB OF SCIENCE -->
+
+                <!-- INSERT YOUR WEB OF SCIENCE PROFILE URL -->
+
+                <a
+                    href="https://www.webofscience.com/wos/author/record/AEA-2427-2022"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Web of Science
+                </a>
+
+
+                <!-- EMAIL -->
+
+                <!-- INSERT YOUR EMAIL -->
+
+                <a href="mailto:pashuniogaucho@email.com">
+                    Email
+                </a>
+
+
+            </div>
+
+
+            <!-- LANGUAGE SWITCH -->
+
+            <div class="language-switch">
+
+                <a href="index.html">
+                    RU
+                </a>
+
+                <span>|</span>
+
+                <a class="active" href="en.html">
+                    EN
+                </a>
+
+            </div>
+
+
+        </div>
+
+    </header>
+
+
+
+    <!-- =====================================================
+         RESEARCH INTERESTS
+         ===================================================== -->
+
+    <section>
+
+        <h2>
+            Research Interests
+        </h2>
+
+
+        <!-- INSERT YOUR RESEARCH INTERESTS -->
+
+        <p class="interests">
+            Political systems, vigilantism, peace and conflict studies, African states, quantitative research, Bayesian modeling
+        </p>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         EDUCATION
+         ===================================================== -->
+
+    <section>
+
+        <h2>
+            Education
+        </h2>
+
+
+        <!-- EDUCATION №1 -->
+
+        <div class="cv-item">
+
+            <!-- INSERT YEARS -->
+
+            <div class="cv-date">
+                2012–2016
+            </div>
+
+            <div>
+
+                <!-- INSERT UNIVERSITY -->
+
+                <h3>
+                    RUDN University
+                </h3>
+
+                <!-- INSERT DEGREE / QUALIFICATION -->
+
+                <p>
+                    Bachelor / Public Administration
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <!-- EDUCATION №2 -->
+
+        <div class="cv-item">
+
+            <div class="cv-date">
+                2016–2018
+            </div>
+
+            <div>
+
+                <h3>
+                    RUDN University
+                </h3>
+
+                <p>
+                    Master / Political Science
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <!-- EDUCATION №3 -->
+
+        <div class="cv-item">
+
+            <div class="cv-date">
+                2018–2021
+            </div>
+
+            <div>
+
+                <h3>
+                    Russian Presidential Academy of National Economy and Public Administration (RANEPA)
+                </h3>
+
+                <p>
+                    Postgraduate  / Political Science and Regional Studies
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <!-- EDUCATION №4 -->
+
+        <div class="cv-item">
+
+            <div class="cv-date">
+                2025
+            </div>
+
+            <div>
+
+                <h3>
+                    Russian Presidential Academy of National Economy and Public Administration (RANEPA)
+                </h3>
+
+                <p>
+                    Doctoral degree / Thesis: «Stabilization of the political system in a heterogeneous society through the lens of Afrikaner experience»
+                </p>
+
+            </div>
+
+        </div>
+
+
+    </section>
+
+
+
+    <!-- =====================================================
+         PROFESSIONAL EXPERIENCE
+         ===================================================== -->
+
+    <section>
+
+        <h2>
+            Professional Experience
+        </h2>
+
+
+        <!-- JOB №1 -->
+
+        <div class="cv-item">
+
+            <div class="cv-date">
+                2022–2024
+            </div>
+
+            <div>
+
+                <h3>
+                    JSCB Lanta-Bank
+                </h3>
+
+                <p class="position">
+                    Industrial Business Department
+                </p>
+
+                <p>
+                    Collaborated with cross-functional teams on project-related and operational matters. Participated in the development and implementation of financial products for corporate clients. Contributed to the preparation of analytical and informational materials related to the business area.
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <!-- JOB №2 -->
+
+        <div class="cv-item">
+
+            <div class="cv-date">
+                2025–2026
+            </div>
+
+            <div>
+
+                <h3>
+                    Primmakov Institute of World Economy and International Relations, Russian Academy of Sciences (IMEMO RAS)
+                </h3>
+
+                <p class="position">
+                    Junior, then Research Fellow at Peace and Conflict Studies Unit, Department of International Political Affairs
+                </p>
+
+                <p>
+                    Conducted research on political conflicts and comparative politics. Collected, processed, and analyzed quantitative data from Russian and international sources; developed research methodologies and analytical indicators.Prepared reports, academic publications, and presentations of research findings. Performed statistical data analysis and contributed to research projects and expert analytical activities.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         ACTIVITIES AND ACHIEVEMENTS
+         ===================================================== -->
+
+    <section>
+
+        <h2>
+            Activities and Achievements
+        </h2>
+
+
+        <ul class="achievements">
+
+            <li>
+                <strong>2026</strong>
+                — IT Competence Certificate: Mathematical Statistics (Advanced Level), Ministry of Digital Development, Communications and Mass Media of the Russian Federation
+            </li>
+
+            <li>
+                <strong>2026</strong>
+                — IT Competence Certificate: Machine Learning (Basic Level) Qualification, Ministry of Digital Development, Communications and Mass Media of the Russian Federation
+            </li>
+<li>
+                <strong>2025-2026</strong>
+                — Editor at Pathways to Peace and Security journal
+            </li>
+
+            <li>
+                <strong>2025</strong>
+                — Participation in the research project "The Role of Humanitarian and Military Operations in Peacebuilding", The Ministry of Education and Science of the Russian Federation (Registration No. 124031200019-4)
+            </li>
+
+            <li>
+                <strong>2023–2024</strong>
+                — Development and validation of the EVP  index (Scopus, 2Q)
+            </li>
+
+            <li>
+                <strong>2023</strong>
+                — 1st Place in Debate competition (Youth Branch of the Russian Society of Political Scientists) supported by Lomonosov Moscow State University
+            </li>
+
+            <li>
+                <strong>2021</strong>
+                — Acknowledgement (as a reviewer) from Wiley Publishing
+            </li>
+
+            <li>
+                <strong>2021–present</strong>
+                — Vigilantism phenomenon studies 
+            </li>
+
+            <li>
+                <strong>since 2021</strong>
+                — Participation in 10+ national and international conferences and congresses
+            </li>
+
+            <li>
+                <strong>2020</strong>
+                — Report "Features of South African Vigilantism" included in the "Lomonosov-2020" conference best projects
+            </li>
+
+            <li>
+                <strong>2018</strong>
+                — Master's Degree with Honors (magna cum laude), RUDN University
+            </li>
+
+            <li>
+                <strong>2018</strong>
+                — Winner of the team competition for developing a unique business idea (School of Modern Management, supported by RUDN University)
+            </li>
+
+        </ul>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         LANGUAGES
+         ===================================================== -->
+
+    <section>
+
+        <h2>
+            Languages
+        </h2>
+
+
+        <div class="languages">
+
+            <div>
+                <strong>Russian</strong>
+                <span>Native</span>
+            </div>
+
+            <div>
+                <strong>English</strong>
+                <span>Between B2 and C1</span>
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- =====================================================
+         PUBLICATIONS
+         ===================================================== -->
+
+    <section>
+
+        <h2>
+            Publications
+        </h2>
+
+
+        <div class="publications">
+
+
+            <!-- PUBLICATION №1 -->
+            <article class="publication">
+                <div class="publication-year">
+                    2025
+                </div>
+                <div>
+                    <h3>
+                        Disarmament, demobilization and reintegration challenges in Mali: a spatial assessment of community-based violence reduction initiatives
+                    </h3>
+                    <p>
+                        Pathways to Peace and Security. 2025. No. 2(69). pp. 182-202. (in Russ)
+                    </p>
+                    <a
+                        class="publication-link"
+                        href="https://doi.org/10.20542/2307-1494-2025-2-182-202"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Read publication →
+                    </a>
+                </div>
+            </article>
+
+            <!-- PUBLICATION №2 -->
+            <article class="publication">
+                <div class="publication-year">
+                    2025
+                </div>
+                <div>
+                    <h3>
+                        Ethnic heterogeneity and coup vulnerability in the early 21st century: insights from 54 African states
+                    </h3>
+                    <p>
+                        Politics & Policy. 2025. Vol. 53. No. 6. pp. 1–15. Art. no: e70089.
+                    </p>
+                    <a
+                        class="publication-link"
+                        href="https://doi.org/10.1111/polp.70089"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Read publication →
+                    </a>
+                </div>
+            </article>
+
+            <!-- PUBLICATION №3 -->
+            <article class="publication">
+                <div class="publication-year">
+                    2024
+                </div>
+                <div>
+                    <h3>
+                        Ethnic Vigilantism Propensity Index: Evidence from the Russian Federation
+                    </h3>
+                    <p>
+                        Mankind Quarterly. 2024. No. 64(4). pp. 690–720.
+                    </p>
+                    <a
+                        class="publication-link"
+                        href="https://doi.org/10.46469/mq.2024.64.4.7"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Read publication →
+                    </a>
+                </div>
+            </article>
+
+            <!-- PUBLICATION №4 -->
+            <article class="publication">
+                <div class="publication-year">
+                    2023
+                </div>
+                <div>
+                    <h3>
+                        Hutu vs. Tutsi in Burundi: why local vigilantes are a threat to the future of the state?
+                    </h3>
+                    <p>
+                        Pathways to Peace and Security. 2023. No. 1(64). pp. 183-204. (in Russ)
+                    </p>
+                    <a
+                        class="publication-link"
+                        href="https://doi.org/10.20542/2307-1494-2023-1-183-204"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Read publication →
+                    </a>
+                </div>
+            </article>
+
+            <!-- PUBLICATION №5 -->
+            <article class="publication">
+                <div class="publication-year">
+                    2021
+                </div>
+                <div>
+                    <h3>
+                        Correlation of ethnic characteristics and political system stability. Primordial and evolutionary aspects.
+                    </h3>
+                    <p>
+                        Journal of Social, Political, and Economic Studies. 2021. No. 46(3-4). pp. 288-300.
+                    </p>
+                    <a
+                        class="publication-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Read publication →
+                    </a>
+                </div>
+            </article>
+
+            <!-- PUBLICATION №6 -->
+            <article class="publication">
+                <div class="publication-year">
+                    2021
+                </div>
+                <div>
+                    <h3>
+                        Several prerequisites of Sara's secessionism in Chad Republic
+                    </h3>
+                    <p>
+                        Political science issues. 2021. Vol. 11. No. 5(69). pp. 1532-1539. (in Russ)
+                    </p>
+                    <a
+                        class="publication-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Read publication →
+                    </a>
+                </div>
+            </article>
+
+            <!-- PUBLICATION №7 -->
+            <article class="publication">
+                <div class="publication-year">
+                    2021
+                </div>
+                <div>
+                    <h3>
+                        Vigilantism in Divided Societies
+                    </h3>
+                    <p>
+                        Journal of Social, Political, and Economic Studies. 2021. No. 46(1-2). pp. 27-50.
+                    </p>
+                    <a
+                        class="publication-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Read publication →
+                    </a>
+                </div>
+            </article>
+
+            <!-- PUBLICATION №8 -->
+            <article class="publication">
+                <div class="publication-year">
+                    2021
+                </div>
+                <div>
+                    <h3>
+                        Stabilization of Political System Through the State Policy of National Reconciliation
+                    </h3>
+                    <p>
+                        Issues of National and Federative Relations. 2021. Vol. 11. No. 5(71). pp. 522-529. (in Russ)
+                    </p>
+                    <a
+                        class="publication-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Read publication →
+                    </a>
+                </div>
+            </article>
+
+            <!-- PUBLICATION №9 -->
+            <article class="publication">
+                <div class="publication-year">
+                    2020
+                </div>
+                <div>
+                    <h3>
+                        Religion as a Factor in Civil Society and Party Institutions Development
+                    </h3>
+                    <p>
+                        Vestnik Povolzhskogo Instituta Upravleniya. 2020. Vol. 20. No. 5. pp. 100-110. (in Russ)
+                    </p>
+                    <a
+                        class="publication-link"
+                        href="https://doi.org/10.22394/1682-2358-2020-5-100-110"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Read publication →
+                    </a>
+                </div>
+            </article>
+
+            <!-- PUBLICATION №10 -->
+            <article class="publication">
+                <div class="publication-year">
+                    2018
+                </div>
+                <div>
+                    <h3>
+                        Deconstruction of political institutions and civil society as a catalyst of ethnic, religious and racial conflicts on the example of Russia, Yugoslavia, and the Democratic Republic of Congo
+                    </h3>
+                    <p>
+                        PolitBook. 2018. No. 4. pp. 157-165.
+                    </p>
+                    <a
+                        class="publication-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Read publication →
+                    </a>
+                </div>
+            </article>
+
+        </div>
+    </section>
+
+
+
+    <!-- =====================================================
+         FOOTER
+         ===================================================== -->
+
+    <footer>
+
+        <p>
+            © 2026 P.V.Ivanov.
+        </p>
+
+    </footer>
+
+
+</div>
+
+
+</body>
+
+</html>
